@@ -1,5 +1,5 @@
 export const PORT = 5050
-export const DATABASE = 'mongodb+srv://Jinna:Jinna@cluster0.th6bj.mongodb.net/'
+export const DATABASE = 'mongodb+srv://**db-name**:**db-pss**@cluster0.th6bj.mongodb.net/'
 export const JWT_KEY = '123456'
 export const JWT_EXPIRE_TIME = 30*24*60*60
 
