@@ -1,0 +1,15 @@
+1. Project Init
+2. Install Packages
+3. route configuration
+4. app.js configuration
+5. Postman configuration
+6. Email Credential configuration
+7. Token Encode Decode Credential configuration
+8. Write Mode Properties
+9. Registtration API
+10. Login API
+11. Profile Details API
+
+12. Create Task
+13. Update Task by status
+14. Task by status
