@@ -8,4 +8,4 @@ install npm
 5 export const EMAIL_USER = ''
 6 export const EMAIL_PSS = ''
 
-impor postman documentation’s on postman
+import postman documentation’s on postman
