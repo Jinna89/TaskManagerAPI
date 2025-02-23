@@ -6,3 +6,5 @@ install npm
 ## 4 export const EMAIL_SECURITY = false
 ## 5 export const EMAIL_USER = ''
 ## 6 export const EMAIL_PSS = ''
+
+impor postman documentation’s on postman
