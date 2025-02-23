@@ -13,3 +13,10 @@
 12. Create Task
 13. Update Task by status
 14. Task by status
+
+15. email verify
+16. oyp code veryfy
+17. update or reset password 
+
+18. Deleted task
+19. Count task
